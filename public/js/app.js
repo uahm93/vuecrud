@@ -46217,7 +46217,7 @@ var render = function() {
           },
           [
             _c("span", { staticClass: "glyphicon glyphicon-plus" }),
-            _vm._v("\n        Agregar nuevo POST\n       ")
+            _vm._v("\n        Agregar nuevo POST \n       ")
           ]
         ),
         _vm._v(" "),

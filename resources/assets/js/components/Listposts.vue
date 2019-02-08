@@ -4,7 +4,7 @@
              
              <router-link class="btn btn:xs btn-primary" v-bind:to="{path: '/add-post'}">
              <span class="glyphicon glyphicon-plus"></span>
-             Agregar nuevo POST
+             Agregar nuevo POST 
             </router-link>
             <br>
          </div>
